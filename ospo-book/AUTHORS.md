@@ -25,6 +25,8 @@ This list is updated every time a new release is published, but you can open a P
 - Jonas van den Bogaard
 - Kate Stewart
 - Masae Shida
+- Masayuki Kuwata
+- Maurice Hendriks
 - Remy D
 - Rob Moffat
 - Seo Yeon Lee
@@ -33,6 +35,7 @@ This list is updated every time a new release is published, but you can open a P
 - Stephanie Lieggi
 - Supriya Ashish Chitale
 - Takanori Suzuki
+- Ulises Gascón
 - Victor Lu
 
 
